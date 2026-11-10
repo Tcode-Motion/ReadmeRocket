@@ -1,0 +1,46 @@
+{
+  "name": "Alex Carter",
+  "username": "alexcarter",
+  "role": "Full-stack Developer",
+  "tagline": "I build web apps and open source tools.",
+  "about": "Full-stack developer who enjoys clean code, small tools and shipping in the open. Most of my work lives here on GitHub.",
+  "theme": "lime",
+  "template": "classic",
+  "font": "modern",
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Node.js",
+    "Python",
+    "Git",
+    "Docker",
+    "PostgreSQL"
+  ],
+  "stats": {
+    "repos": "18",
+    "stars": "42",
+    "followers": "9",
+    "contributions": "640"
+  },
+  "projects": [
+    {
+      "name": "weathernow",
+      "desc": "A tiny weather app with offline caching",
+      "link": "https://github.com/alexcarter/weathernow",
+      "stars": "12"
+    },
+    {
+      "name": "mdnotes",
+      "desc": "Markdown notes that sync as plain files",
+      "link": "https://github.com/alexcarter/mdnotes",
+      "stars": "8"
+    }
+  ],
+  "socials": {
+    "github": "https://github.com/alexcarter",
+    "linkedin": "https://www.linkedin.com/in/alexcarter",
+    "website": "https://alexcarter.dev",
+    "email": "alex@example.com"
+  }
+}

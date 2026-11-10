@@ -1,0 +1,56 @@
+{
+  "name": "Tanmoy Majumder",
+  "username": "Tcode-Motion",
+  "role": "AI App Builder | Android and AI Automation",
+  "tagline": "Building practical AI products, in the open.",
+  "about": "Android and AI builder from India. I build apps, websites and digital products, and I am the creator of TechScript, a programming language that reads like plain English and runs like Rust.",
+  "theme": "lime",
+  "skills": [
+    "Python",
+    "Rust",
+    "Kotlin",
+    "Android",
+    "TypeScript",
+    "React",
+    "FastAPI",
+    "Git",
+    "Docker",
+    "Linux",
+    "AI Automation",
+    "Firebase"
+  ],
+  "stats": {
+    "repos": "24",
+    "stars": "86",
+    "followers": "10",
+    "contributions": "3875"
+  },
+  "projects": [
+    {
+      "name": "TechScript",
+      "desc": "A programming language that reads like plain English, built in Rust",
+      "link": "https://github.com/Tcode-Motion/techscript",
+      "stars": "7"
+    },
+    {
+      "name": "Vortyx",
+      "desc": "Downloader app and tools",
+      "link": "https://github.com/Tcode-Motion/Vortyx",
+      "stars": "8"
+    },
+    {
+      "name": "NovOS",
+      "desc": "A custom operating system experiment",
+      "link": "https://github.com/Tcode-Motion/NovOS",
+      "stars": "7"
+    }
+  ],
+  "socials": {
+    "github": "https://github.com/Tcode-Motion",
+    "x": "https://x.com/TanmoyMaju40558",
+    "linkedin": "https://www.linkedin.com/in/tanmoy-majumder-/",
+    "instagram": "https://www.instagram.com/tcodemotion",
+    "website": "https://tanmoy.is-a.dev",
+    "email": "majumdertanmoy510@gmail.com"
+  }
+}
